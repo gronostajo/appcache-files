@@ -1,0 +1,30 @@
+{
+  "name": "appcache-files",
+  "version": "0.1.0",
+  "description": "Reads list of file paths from appcache manifest file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gronostajo/appcache-manifest.git"
+  },
+  "keywords": [
+    "appcache",
+    "manifest",
+    "file",
+    "path",
+    "files",
+    "list"
+  ],
+  "author": "gronostajo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gronostajo/appcache-manifest/issues"
+  },
+  "homepage": "https://github.com/gronostajo/appcache-manifest#readme",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
